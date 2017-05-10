@@ -1,2 +1,2 @@
 # Tensorflow
-# Code to use with tensorflow version 0.8
+# Code to use with tensorflow version 1.0
